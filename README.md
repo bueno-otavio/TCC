@@ -13,7 +13,7 @@
 1. **Faça o clone desse projeto no local desejado:**
 
    ```bash
-   git clone https://github.com/gstvpassos/Automacao-Avancada.git
+   git clone https://github.com/bueno-otavio/TCC.git
    ```
 
 2. **No diretório do projeto, instale as bibliotecas com os comandos Maven**  
